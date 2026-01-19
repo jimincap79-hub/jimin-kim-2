@@ -34,21 +34,8 @@ HTML, CSS, JavaScript를 활용하여 구현한 오픈마켓 웹 서비스입니
 ---
 
 ## 프로젝트 구조
-PROJECT
-├─ css
-│ ├─ common.css
-│ ├─ login.css
-│ ├─ products.css
-│ └─ product.css
-├─ js
-│ ├─ api
-│ ├─ pages
-│ └─ session.js
-├─ images
-├─ login.html
-├─ signup.html
-├─ products.html
-└─ product.html
+<img width="155" height="390" alt="image" src="https://github.com/user-attachments/assets/a88ba68e-9009-4e7b-9f0a-33ba0de0cc97" />
+
 
 
 ---
